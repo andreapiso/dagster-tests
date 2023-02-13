@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: project-fully-featured
+Version: 1!0+dev
+Author: Elementl
+Author-email: hello@elementl.com
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: OS Independent
+Provides-Extra: dev
+Provides-Extra: tests

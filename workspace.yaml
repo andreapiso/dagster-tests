@@ -1,0 +1,7 @@
+load_from:
+  - python_module: hello-project
+  - python_module: my-dagster-project.project_fully_featured
+  # - python_file: describe-project/describe_df.py
+
+# load_from:
+#   - python_module: my-dagster-project.project_fully_featured
